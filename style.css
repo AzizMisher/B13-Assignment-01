@@ -65,3 +65,10 @@ nav .menu a{
     list-style-type: none;
 }
 
+.banner{
+    width: 1600px;
+    height: 674px;
+    padding: 70px 120px 134px 120px;
+    background-image: url(./assets/hero-bg.png);
+}
+
